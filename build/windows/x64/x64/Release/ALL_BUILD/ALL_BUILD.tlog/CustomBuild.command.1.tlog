@@ -1,0 +1,10 @@
+^E:\FLUTTER_TEST\FILIDOWN\FILIDOWN\WINDOWS\CMAKELISTS.TXT
+setlocal
+E:\vs2022\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/flutter_test/FiLiDown/filidown/windows -BE:/flutter_test/FiLiDown/filidown/build/windows/x64 --check-stamp-file E:/flutter_test/FiLiDown/filidown/build/windows/x64/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
