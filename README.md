@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> <img src="https://s2.loli.net/2024/05/10/nrGPpO6HDkQht9S.png" alt="Wanglanhuajiaofen" style="width: 60px"> ShiCui <h1>
+    <h1> <img src="https://s2.loli.net/2024/05/10/nrGPpO6HDkQht9S.png" alt="Wanglanhuajiaofen" style="width: 60px"> FiLiDown <h1>
 
 [![GitHub release](https://img.shields.io/badge/release-v1.0.0-blue?logo=github)](https://github.com/WangLanHuaJiaoFen/ShiCui/releases/latest)
 [![bilibili](https://img.shields.io/badge/bilibili-page-pink?logo=bilibili)](https://github.com/WangLanHuaJiaoFen/ShiCui/releases/latest)
@@ -37,5 +37,5 @@ FiLiDown是一款基于BBDown的用flutter写的material风格的windows平台�
 
 - [https://github.com/nilaoda/BBDown](https://github.com/nilaoda/BBDown)(BBDown)
 - [BBDown](https://github.com/nilaoda/BBDown)致谢的所有仓库，没有你们就没有伟大的BBDown
-- [https://github.com/1299172402/BBDown_GUI](https://github.com/1299172402/BBDown_GUI)BBDown_GUI, 本软件参考了BBDown_GUI里的部分设置分类
-- [https://github.com/SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)bilibili-API-collect, 获取个人信息调用的是[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)提供的接口
+- [https://github.com/1299172402/BBDown_GUI](https://github.com/1299172402/BBDown_GUI)(BBDown_GUI), 本软件参考了BBDown_GUI里的部分设置分类
+- [https://github.com/SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)(bilibili-API-collect), 获取个人信息调用的是[bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)提供的接口
